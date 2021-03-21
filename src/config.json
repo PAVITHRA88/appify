@@ -1,0 +1,4 @@
+{
+  "apiUrl": "http://localhost:3900/api",
+  "datamuseUrl": "https://api.datamuse.com/words"
+}
