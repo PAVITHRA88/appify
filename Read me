@@ -1,0 +1,6 @@
+Here I have used Datamuse public API.
+here I faced CORS preflight issue, which I tried multiple solutions like adding headers like Access-control-allow-*.
+One working solution is to disable the web security in browsers : 
+   1 - open Run 
+   2 - type => chrome.exe --user-data-dir="C://Chrome dev session" --disable-web-security
+   3 - a browser window will open where the api will work. 
